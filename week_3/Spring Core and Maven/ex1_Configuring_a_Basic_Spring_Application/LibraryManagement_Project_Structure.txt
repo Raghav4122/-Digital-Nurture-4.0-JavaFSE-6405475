@@ -1,0 +1,16 @@
+LibraryManagement/
+├── pom.xml
+└── src/
+    ├── main/
+    │   ├── java/
+    │   │   └── com/
+    │   │       └── library/
+    │   │           ├── service/
+    │   │           │   └── BookService.java
+    │   │           ├── repository/
+    │   │           │   └── BookRepository.java
+    │   │           └── MainApp.java
+    │   └── resources/
+    │       └── applicationContext.xml
+    └── test/
+        └── java/
